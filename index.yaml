@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   react-spring:
   - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2024-10-11T19:43:11.532759296Z"
+    description: A Helm chart for Kubernetes
+    digest: 09e4f6f1fcbd5ef59ad4b3fc41424bd96f16b5d61979fb0e9aabf7aaaf0e53b5
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: react-spring
+    sources:
+    - https://github.com/iMckify/react-spring.git
+    urls:
+    - react-spring-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-11T17:02:57.773483414Z"
+    created: "2024-10-11T19:43:11.532223757Z"
     description: A Helm chart for Kubernetes
     digest: e7dc9c0ecca436cc6b7a3616a4036759ddfe12ad5e9011918a2c05567fb92835
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,4 +25,4 @@ entries:
     urls:
     - react-spring-0.0.3.tgz
     version: 0.0.3
-generated: "2024-10-11T17:02:57.772742504Z"
+generated: "2024-10-11T19:43:11.531117931Z"
