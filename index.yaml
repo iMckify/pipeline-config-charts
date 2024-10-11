@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  react-spring:
+  - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2024-10-11T17:02:57.773483414Z"
+    description: A Helm chart for Kubernetes
+    digest: e7dc9c0ecca436cc6b7a3616a4036759ddfe12ad5e9011918a2c05567fb92835
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: react-spring
+    sources:
+    - https://github.com/iMckify/react-spring.git
+    urls:
+    - react-spring-0.0.3.tgz
+    version: 0.0.3
+generated: "2024-10-11T17:02:57.772742504Z"
