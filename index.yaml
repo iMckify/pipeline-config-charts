@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   react-spring:
   - apiVersion: v1
+    appVersion: 0.0.8
+    created: "2024-10-23T20:38:40.633110934Z"
+    description: A Helm chart for Kubernetes
+    digest: 8b1641f2cfb1c9a9d43899775d28f31421211ab2221153b281dead4817d43665
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: react-spring
+    sources:
+    - https://github.com/iMckify/react-spring.git
+    urls:
+    - react-spring-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v1
     appVersion: 0.0.7
-    created: "2024-10-16T14:53:17.140782218Z"
+    created: "2024-10-23T20:38:40.63274932Z"
     description: A Helm chart for Kubernetes
     digest: 147f3f4bd2058e236009278f1e42489a82faccd8153fafff3393b8e994d3f7e8
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -15,7 +27,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2024-10-16T14:53:17.140039136Z"
+    created: "2024-10-23T20:38:40.63238193Z"
     description: A Helm chart for Kubernetes
     digest: 3a8ce4fdf1de23e3f045abe755b5369672ff112566a6046848945e98cabb3613
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -27,7 +39,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2024-10-16T14:53:17.139253696Z"
+    created: "2024-10-23T20:38:40.632008648Z"
     description: A Helm chart for Kubernetes
     digest: 3de2ccc08fe16905523f8dfe04af5600832c71c4407f45ea884ea858d79cce52
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -39,7 +51,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-16T14:53:17.138222909Z"
+    created: "2024-10-23T20:38:40.631596731Z"
     description: A Helm chart for Kubernetes
     digest: 09e4f6f1fcbd5ef59ad4b3fc41424bd96f16b5d61979fb0e9aabf7aaaf0e53b5
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -51,7 +63,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-16T14:53:17.137642266Z"
+    created: "2024-10-23T20:38:40.631152687Z"
     description: A Helm chart for Kubernetes
     digest: e7dc9c0ecca436cc6b7a3616a4036759ddfe12ad5e9011918a2c05567fb92835
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -61,4 +73,4 @@ entries:
     urls:
     - react-spring-0.0.3.tgz
     version: 0.0.3
-generated: "2024-10-16T14:53:17.136907929Z"
+generated: "2024-10-23T20:38:40.630150755Z"
